@@ -1,3 +1,3 @@
 # HadoopMultiCluster
 
-Hadoop Multi CLuster for my Operating Systems class Project. 
+Hadoop Multi Cluster for my Operating Systems class Project. 
